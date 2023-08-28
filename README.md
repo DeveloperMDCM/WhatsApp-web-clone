@@ -1,13 +1,14 @@
-## React Nodejs Socket.io
+## Node, Express, Mysql, WebSocket, Tailwind css y React
 
-A simple React example using a Nodejs backend with Socket.io Connection. And TailwindCSS for the styles
+Mini clone WhatsApp Web
 
-![](./docs/screenshot.jpg)
+![](./docs/screen.png)
 
-## Tools
+## Tools/Herramientas
 
 - Node.js
   - express
   - socket.io
+  - Mysql
 - React
-- [ngrok](https://ngrok.com/)
+- Tailwind css
