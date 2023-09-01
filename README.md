@@ -25,5 +25,3 @@ Mini clone WhatsApp Web
   - Mysql
 - React
 - Tailwind css
-
-- #
