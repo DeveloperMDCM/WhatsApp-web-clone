@@ -4,6 +4,19 @@ Mini clone WhatsApp Web
 
 ![](./docs/screen.png)
 
+
+## Frontend
+- cd/frontend
+- npm i
+- npm run dev
+
+## Backend
+- npm i
+- npm start
+
+## import file.sql
+- /database/chat_app.sql
+
 ## Tools/Herramientas
 
 - Node.js
@@ -12,3 +25,5 @@ Mini clone WhatsApp Web
   - Mysql
 - React
 - Tailwind css
+
+- #
